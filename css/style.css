@@ -71,7 +71,7 @@ nav>ul>li>a:hover {
 /* HERO SECTION BEGINS HERE */
 
 .hero {
-    background-image:url(../img/hero.jpg);
+    background-image:url("./about-hero.jpg");
     background-size: cover;
     background-position: center;
     padding-top:175px;

@@ -1,6 +1,6 @@
 /*about Hero Section*/
 .about-hero {
-    background-image: url('../img/about-hero.jpg');
+    background-image: url("./about-hero.jpg")
     height: 450px;
     text-align:center;
     background-size: cover;
